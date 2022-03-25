@@ -4,3 +4,6 @@
 
 * Bracket Pair  Color
 * vscode-icons
+* ESLint
+* JavaScript(ES6) code snippets
+* Monokai Pro
