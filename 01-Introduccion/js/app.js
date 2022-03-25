@@ -1,5 +1,5 @@
 // alert("Hola mundo");
-const text = prompt("Cual es tu nombre?");
+const text = prompt('Who are you?');
 // Alt + 94
 
 const newLocal = `${text} está aprendiendo JavaScript Moderno`;
