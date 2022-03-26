@@ -10,6 +10,11 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-alert":"off"
+        "no-alert":"off",
+        "linebreak-style": ["error", "windows"],
+        "no-unused-vars":"off",
+        "one-var":"off",
+        "no-var":"off",
+        "no-underscore-dangle":"off"
     }
 }
