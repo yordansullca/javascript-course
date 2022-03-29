@@ -14,5 +14,5 @@ console.log(actividad.split(" "));
 const hobbies = 'Leer, caminar, escuchar música, escribir, aprender a programar'
 console.log(hobbies.split(','));
 
-const tweet = "Aprendiendo JavaScript #JSModernoConJuan";
+const tweet = "Aprendiendo JavaScript #JSModernoConHiro";
 console.log(tweet.split('#'));
