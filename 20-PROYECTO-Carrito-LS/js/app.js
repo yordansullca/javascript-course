@@ -42,7 +42,6 @@ function eliminarCurso(e){
         //Eliminar del arreglo de articulosCarrito por el data-id
         articulosCarrito = articulosCarrito.filter(curso => curso.id !== cursoId);
         carritoHTML();
-        sincronizarStorage();
     }
 
    /*  if (e.target.classList.contains('borrar-curso')) {
